@@ -9,5 +9,4 @@ public class CheckEvenOdd {
     }
 }
 
-//This program is to print even or odd
-//This is a fun program
+
